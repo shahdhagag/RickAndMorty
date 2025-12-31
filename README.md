@@ -21,12 +21,6 @@ A **Rick & Morty Flutter app** that displays characters from the official API. U
 
 ## 🖼 Screenshots
 
-<table> <tr> <td align="center"><b>Splash Screen</b><br> <img width="200" src="https://user-images.githubusercontent.com/phone-frame.png" style="position: relative;"> <br><img width="180" src="https://github.com/user-attachments/assets/ac0da173-d986-4ec1-9154-c887ad52420a" style="position: absolute; top:20px; left:10px;"></td> <td align="center"><b>Character List Page</b><br> <img width="200" src="https://user-images.githubusercontent.com/phone-frame.png"> <br><img width="180" src="https://github.com/user-attachments/assets/3901e94f-536b-48d5-a762-ca5cce521414"></td> </tr> <tr> <td align="center"><b>Character Details Page</b><br> <img width="200" src="https://user-images.githubusercontent.com/phone-frame.png"> <br><img width="180" src="https://github.com/user-attachments/assets/26f3dab5-b02c-4587-9fc2-f9d911d504b9"></td> <td align="center"><b>Search Page</b><br> <img width="200" src="https://user-images.githubusercontent.com/phone-frame.png"> <br><img width="180" src="https://github.com/user-attachments/assets/0a762333-5315-436a-80dd-e90009af36cb"></td> </tr> </table>
-
-
-
-
-
 <table>
   <tr>
     <td><b>Splash Screen</b><br><img width="300" src="https://github.com/user-attachments/assets/ac0da173-d986-4ec1-9154-c887ad52420a" /></td>
