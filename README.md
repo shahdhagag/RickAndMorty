@@ -1,7 +1,7 @@
 
 ---
 
-# Cubit/clean_arch Practice – Rick & Morty App
+# Cubit/Clean_Arch Practice – Rick & Morty App
 
 A **Rick & Morty Flutter app** that displays characters from the official API. Users can **browse characters, search by name**, and view detailed character information. Built with **Cubit (BLoC), clean architecture**, and modern Flutter best practices.
 
@@ -21,13 +21,16 @@ A **Rick & Morty Flutter app** that displays characters from the official API. U
 
 ## 🖼 Screenshots
 
-**Splash Screen** <img width="250" src="https://github.com/user-attachments/assets/ac0da173-d986-4ec1-9154-c887ad52420a" />
-
-**Character List Page** <img width="250" src="https://github.com/user-attachments/assets/3901e94f-536b-48d5-a762-ca5cce521414" />
-
-**Character Details Page** <img width="250" src="https://github.com/user-attachments/assets/26f3dab5-b02c-4587-9fc2-f9d911d504b9" />
-
-**Search Page** <img width="250" src="https://github.com/user-attachments/assets/0a762333-5315-436a-80dd-e90009af36cb" />
+<table>
+  <tr>
+    <td><b>Splash Screen</b><br><img width="300" src="https://github.com/user-attachments/assets/ac0da173-d986-4ec1-9154-c887ad52420a" /></td>
+    <td><b>Character List Page</b><br><img width="300" src="https://github.com/user-attachments/assets/3901e94f-536b-48d5-a762-ca5cce521414" /></td>
+  </tr>
+  <tr>
+    <td><b>Character Details Page</b><br><img width="300" src="https://github.com/user-attachments/assets/26f3dab5-b02c-4587-9fc2-f9d911d504b9" /></td>
+    <td><b>Search Page</b><br><img width="300" src="https://github.com/user-attachments/assets/0a762333-5315-436a-80dd-e90009af36cb" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -68,8 +71,7 @@ lib/
 └── main.dart
 ```
 
-
-
+---
 
 ## 🛠 Clean Architecture
 
@@ -89,4 +91,3 @@ lib/
   * `character?name=XXX` – Search support
 
 ---
-
